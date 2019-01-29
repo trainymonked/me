@@ -1,2 +1,2 @@
-# git.terill.ru | terill.github.io
+# git.terill.ru
 This is my first time using github
