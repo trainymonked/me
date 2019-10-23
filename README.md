@@ -1,2 +1,0 @@
-# Simple Site
-Sample Text
