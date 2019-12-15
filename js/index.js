@@ -54,7 +54,7 @@ document.querySelector('#xannyForm').onsubmit = function (event) {
 }
 
 function writeResult(result) {
-  document.querySelector('#forXannyResult').innerHTML = result;
+  document.querySelector('#forXannyResult').value = result;
 }
 
 console.log('it works!!!');
