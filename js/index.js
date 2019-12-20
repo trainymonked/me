@@ -3,7 +3,8 @@ let pressedF = false;
 let pressedK = false;
 
 document.querySelector('body').onkeypress = function (event) {
-  if(!document.querySelector('#text')) return;
+  //if(document.querySelector('#text')) return;
+  alert(document.querySelector('#text'));
   if (event.code === 'KeyF' && pressedK === false) {
     if (pressedF === true) {
       document.querySelector('#text').innerHTML = 'I said press K!!!';
