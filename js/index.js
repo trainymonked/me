@@ -1,5 +1,7 @@
-window.onload = function() {
+window.onload = setTimeout(f283, 5000);
+
+function f283() {
     window.location.replace("https://t.me/terill");
-};
+}
 
 console.log('it works!!!');
