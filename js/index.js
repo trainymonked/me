@@ -1,1 +1,1 @@
-window.location.replace("https://t.me/terill");
+window.location.replace("https://t.me/trainymonked");
